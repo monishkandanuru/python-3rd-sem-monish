@@ -1,0 +1,2 @@
+Enter number of digits: 6
+OTP: 483271

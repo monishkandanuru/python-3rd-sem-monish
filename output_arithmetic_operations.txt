@@ -1,0 +1,13 @@
+Enter First Number: 10
+Enter Second Number: 3
+
+----- ARITHMETIC OPERATIONS -----
+First Number      : 10.0
+Second Number     : 3.0
+Addition          : 13.0
+Subtraction       : 7.0
+Multiplication    : 30.0
+Division          : 3.3333333333333335
+Floor Division    : 3.0
+Modulus           : 1.0
+Exponentiation    : 1000.0
