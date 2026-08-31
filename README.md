@@ -24,7 +24,3 @@ This repository contains beginner-friendly Python programs collected and organiz
 5. Enter the requested values when prompted.
 
 The output files are sample terminal sessions captured for example inputs. Random programs produce different values each time.
-
-## Reference
-
-The initial practice programs were sourced from the provided reference repository: [DSGAMING98/python_3rd_sem](https://github.com/DSGAMING98/python_3rd_sem).
